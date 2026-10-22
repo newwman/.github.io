@@ -15,6 +15,7 @@ I am studying how canopy structure varies across early Eocene environments acros
 
 anewma12@uwyo.edu
 
-#Additional Information
+## Additional Information
 
 [Download my CV](Will-Newman_CV_9-2026.pdf)
+
