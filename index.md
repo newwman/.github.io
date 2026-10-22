@@ -9,7 +9,7 @@ Advisor: Dr. Ellen D. Currano
 
 ## Research
 
-I am studying how canopy structure varies across early Eocene environments across Wyoming
+I am studying how canopy structure varies across early Eocene environments in Wyoming
 
 ## Contact
 
