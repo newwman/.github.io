@@ -19,3 +19,7 @@ anewma12@uwyo.edu
 
 [Download my CV](Will-Newman_CV_9-2026.pdf)
 
+## ME
+
+![ME](images/IMG_0602.jpg)
+
