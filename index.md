@@ -21,5 +21,5 @@ anewma12@uwyo.edu
 
 ## ME
 
-![ME](images/IMG_0602.jpg)
+![ME](images/field1.jpg)
 
