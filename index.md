@@ -1,6 +1,7 @@
 --
 layout: default
 --
+
 # William M. Newman
 
 PhD student, Geology, University of Wyoming
